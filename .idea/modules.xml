@@ -27,7 +27,11 @@
       <module fileurl="file://$PROJECT_DIR$/02_Strings/022_Regex2-DuplicateWords/022_Regex2-DuplicateWords.iml" filepath="$PROJECT_DIR$/02_Strings/022_Regex2-DuplicateWords/022_Regex2-DuplicateWords.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_Strings/023_ValidUsernameRegex/023_ValidUsernameRegex.iml" filepath="$PROJECT_DIR$/02_Strings/023_ValidUsernameRegex/023_ValidUsernameRegex.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_Strings/024_TagContentExtractor/024_TagContentExtractor.iml" filepath="$PROJECT_DIR$/02_Strings/024_TagContentExtractor/024_TagContentExtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_BigNumber/025_BigInteger/025_BigInteger.iml" filepath="$PROJECT_DIR$/03_BigNumber/025_BigInteger/025_BigInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_BigNumber/026_BigDecimal/026_BigDecimal.iml" filepath="$PROJECT_DIR$/03_BigNumber/026_BigDecimal/026_BigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_BigNumber/027_PrimalityTest/027_PrimalityTest.iml" filepath="$PROJECT_DIR$/03_BigNumber/027_PrimalityTest/027_PrimalityTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_Strings/02_Strings.iml" filepath="$PROJECT_DIR$/02_Strings/02_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_BigNumber/03_BigNumber.iml" filepath="$PROJECT_DIR$/03_BigNumber/03_BigNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPath.iml" filepath="$PROJECT_DIR$/JavaPath.iml" />
     </modules>
   </component>
