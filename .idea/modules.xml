@@ -15,7 +15,19 @@
       <module fileurl="file://$PROJECT_DIR$/01_Introduction/011_IntToString/011_IntToString.iml" filepath="$PROJECT_DIR$/01_Introduction/011_IntToString/011_IntToString.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_Introduction/012_DateAndTime/012_DateAndTime.iml" filepath="$PROJECT_DIR$/01_Introduction/012_DateAndTime/012_DateAndTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_Introduction/013_CurrencyFormatter/013_CurrencyFormatter.iml" filepath="$PROJECT_DIR$/01_Introduction/013_CurrencyFormatter/013_CurrencyFormatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/014_StringsIntroduction/014_StringsIntroduction.iml" filepath="$PROJECT_DIR$/02_Strings/014_StringsIntroduction/014_StringsIntroduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/015_Substring/015_Substring.iml" filepath="$PROJECT_DIR$/02_Strings/015_Substring/015_Substring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/016_SubstringComparisons/016_SubstringComparisons.iml" filepath="$PROJECT_DIR$/02_Strings/016_SubstringComparisons/016_SubstringComparisons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/017_StringReverse/017_StringReverse.iml" filepath="$PROJECT_DIR$/02_Strings/017_StringReverse/017_StringReverse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/018_Anagrams/018_Anagrams.iml" filepath="$PROJECT_DIR$/02_Strings/018_Anagrams/018_Anagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/019_StringTokens/019_StringTokens.iml" filepath="$PROJECT_DIR$/02_Strings/019_StringTokens/019_StringTokens.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_Introduction/01_Introduction.iml" filepath="$PROJECT_DIR$/01_Introduction/01_Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/020_PatternSyntaxChecker/020_PatternSyntaxChecker.iml" filepath="$PROJECT_DIR$/02_Strings/020_PatternSyntaxChecker/020_PatternSyntaxChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/021_Regex/021_Regex.iml" filepath="$PROJECT_DIR$/02_Strings/021_Regex/021_Regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/022_Regex2-DuplicateWords/022_Regex2-DuplicateWords.iml" filepath="$PROJECT_DIR$/02_Strings/022_Regex2-DuplicateWords/022_Regex2-DuplicateWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/023_ValidUsernameRegex/023_ValidUsernameRegex.iml" filepath="$PROJECT_DIR$/02_Strings/023_ValidUsernameRegex/023_ValidUsernameRegex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/024_TagContentExtractor/024_TagContentExtractor.iml" filepath="$PROJECT_DIR$/02_Strings/024_TagContentExtractor/024_TagContentExtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Strings/02_Strings.iml" filepath="$PROJECT_DIR$/02_Strings/02_Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPath.iml" filepath="$PROJECT_DIR$/JavaPath.iml" />
     </modules>
   </component>
