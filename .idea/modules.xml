@@ -30,8 +30,17 @@
       <module fileurl="file://$PROJECT_DIR$/03_BigNumber/025_BigInteger/025_BigInteger.iml" filepath="$PROJECT_DIR$/03_BigNumber/025_BigInteger/025_BigInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_BigNumber/026_BigDecimal/026_BigDecimal.iml" filepath="$PROJECT_DIR$/03_BigNumber/026_BigDecimal/026_BigDecimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_BigNumber/027_PrimalityTest/027_PrimalityTest.iml" filepath="$PROJECT_DIR$/03_BigNumber/027_PrimalityTest/027_PrimalityTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DataStructures/028_1dArray/028_1dArray.iml" filepath="$PROJECT_DIR$/04_DataStructures/028_1dArray/028_1dArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DataStructures/029_2dArray/029_2dArray.iml" filepath="$PROJECT_DIR$/04_DataStructures/029_2dArray/029_2dArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_Strings/02_Strings.iml" filepath="$PROJECT_DIR$/02_Strings/02_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DataStructures/030_Subarray/030_Subarray.iml" filepath="$PROJECT_DIR$/04_DataStructures/030_Subarray/030_Subarray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DataStructures/031_Arraylist/031_Arraylist.iml" filepath="$PROJECT_DIR$/04_DataStructures/031_Arraylist/031_Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DataStructures/032_1dArray_Pt2/032_1dArray_Pt2.iml" filepath="$PROJECT_DIR$/04_DataStructures/032_1dArray_Pt2/032_1dArray_Pt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DataStructures/033_List/033_List.iml" filepath="$PROJECT_DIR$/04_DataStructures/033_List/033_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DataStructures/034_Map/034_Map.iml" filepath="$PROJECT_DIR$/04_DataStructures/034_Map/034_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DataStructures/035_Stack/035_Stack.iml" filepath="$PROJECT_DIR$/04_DataStructures/035_Stack/035_Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_BigNumber/03_BigNumber.iml" filepath="$PROJECT_DIR$/03_BigNumber/03_BigNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DataStructures/04_DataStructures.iml" filepath="$PROJECT_DIR$/04_DataStructures/04_DataStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPath.iml" filepath="$PROJECT_DIR$/JavaPath.iml" />
     </modules>
   </component>
