@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/001_Introduction_WelcomeToJava/001_Introduction_WelcomeToJava.iml" filepath="$PROJECT_DIR$/01_Introduction/001_Introduction_WelcomeToJava/001_Introduction_WelcomeToJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/002_Introduction_StdInStdOut/002_Introduction_StdInStdOut.iml" filepath="$PROJECT_DIR$/01_Introduction/002_Introduction_StdInStdOut/002_Introduction_StdInStdOut.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/003_Introduction_IfElse/003_Introduction_IfElse.iml" filepath="$PROJECT_DIR$/01_Introduction/003_Introduction_IfElse/003_Introduction_IfElse.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/004_Introduction_StdInStdOut2/004_Introduction_StdInStdOut2.iml" filepath="$PROJECT_DIR$/01_Introduction/004_Introduction_StdInStdOut2/004_Introduction_StdInStdOut2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/005_Introduction_OutputFormating/005_Introduction_OutputFormating.iml" filepath="$PROJECT_DIR$/01_Introduction/005_Introduction_OutputFormating/005_Introduction_OutputFormating.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/006_Introduction_Loops1/006_Introduction_Loops1.iml" filepath="$PROJECT_DIR$/01_Introduction/006_Introduction_Loops1/006_Introduction_Loops1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/007_Introduction_Loops2/007_Introduction_Loops2.iml" filepath="$PROJECT_DIR$/01_Introduction/007_Introduction_Loops2/007_Introduction_Loops2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/008_Introduction_Datatypes/008_Introduction_Datatypes.iml" filepath="$PROJECT_DIR$/01_Introduction/008_Introduction_Datatypes/008_Introduction_Datatypes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/009_Introduction_EOF/009_Introduction_EOF.iml" filepath="$PROJECT_DIR$/01_Introduction/009_Introduction_EOF/009_Introduction_EOF.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/010_Introduction_StaticInitializerBlock/010_Introduction_StaticInitializerBlock.iml" filepath="$PROJECT_DIR$/01_Introduction/010_Introduction_StaticInitializerBlock/010_Introduction_StaticInitializerBlock.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/011_Introduction_IntToString/011_Introduction_IntToString.iml" filepath="$PROJECT_DIR$/01_Introduction/011_Introduction_IntToString/011_Introduction_IntToString.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/012_Introduction_DateAndTime/012_Introduction_DateAndTime.iml" filepath="$PROJECT_DIR$/01_Introduction/012_Introduction_DateAndTime/012_Introduction_DateAndTime.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01_Introduction/013_Introduction_CurrencyFormatter/013_Introduction_CurrencyFormatter.iml" filepath="$PROJECT_DIR$/01_Introduction/013_Introduction_CurrencyFormatter/013_Introduction_CurrencyFormatter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/001_WelcomeToJava/001_WelcomeToJava.iml" filepath="$PROJECT_DIR$/01_Introduction/001_WelcomeToJava/001_WelcomeToJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/002_StdInStdOut/002_StdInStdOut.iml" filepath="$PROJECT_DIR$/01_Introduction/002_StdInStdOut/002_StdInStdOut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/003_IfElse/003_IfElse.iml" filepath="$PROJECT_DIR$/01_Introduction/003_IfElse/003_IfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/004_StdInStdOut2/004_StdInStdOut2.iml" filepath="$PROJECT_DIR$/01_Introduction/004_StdInStdOut2/004_StdInStdOut2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/005_OutputFormating/005_OutputFormating.iml" filepath="$PROJECT_DIR$/01_Introduction/005_OutputFormating/005_OutputFormating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/006_Loops1/006_Loops1.iml" filepath="$PROJECT_DIR$/01_Introduction/006_Loops1/006_Loops1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/007_Loops2/007_Loops2.iml" filepath="$PROJECT_DIR$/01_Introduction/007_Loops2/007_Loops2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/008_Datatypes/008_Datatypes.iml" filepath="$PROJECT_DIR$/01_Introduction/008_Datatypes/008_Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/009_EOF/009_EOF.iml" filepath="$PROJECT_DIR$/01_Introduction/009_EOF/009_EOF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/010_StaticInitializerBlock/010_StaticInitializerBlock.iml" filepath="$PROJECT_DIR$/01_Introduction/010_StaticInitializerBlock/010_StaticInitializerBlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/011_IntToString/011_IntToString.iml" filepath="$PROJECT_DIR$/01_Introduction/011_IntToString/011_IntToString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/012_DateAndTime/012_DateAndTime.iml" filepath="$PROJECT_DIR$/01_Introduction/012_DateAndTime/012_DateAndTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Introduction/013_CurrencyFormatter/013_CurrencyFormatter.iml" filepath="$PROJECT_DIR$/01_Introduction/013_CurrencyFormatter/013_CurrencyFormatter.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_Introduction/01_Introduction.iml" filepath="$PROJECT_DIR$/01_Introduction/01_Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPath.iml" filepath="$PROJECT_DIR$/JavaPath.iml" />
     </modules>
