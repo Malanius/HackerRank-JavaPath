@@ -1,0 +1,65 @@
+import java.util.*;
+
+class Student implements Comparable<Student> {
+    private int id;
+    private String fname;
+    private double cgpa;
+
+    public Student(int id, String fname, double cgpa) {
+        super();
+        this.id = id;
+        this.fname = fname;
+        this.cgpa = cgpa;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getFname() {
+        return fname;
+    }
+
+    public double getCgpa() {
+        return cgpa;
+    }
+
+    @Override
+    public int compareTo(Student o) {
+        int cgpaCpomare = Double.compare(this.cgpa, o.getCgpa()) * -1;
+        if (cgpaCpomare != 0) {
+            return cgpaCpomare;
+        }
+        int nameComare = this.fname.compareTo(o.getFname());
+        if (nameComare != 0) {
+            return nameComare;
+        }
+        return Integer.compare(this.id, o.getId());
+    }
+}
+
+//Complete the code
+public class Solution {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int testCases = Integer.parseInt(in.nextLine());
+
+        List<Student> studentList = new ArrayList<Student>();
+        while (testCases > 0) {
+            int id = in.nextInt();
+            String fname = in.next();
+            double cgpa = in.nextDouble();
+
+            Student st = new Student(id, fname, cgpa);
+            studentList.add(st);
+
+            testCases--;
+        }
+
+        studentList.sort(null);
+
+        for (Student st : studentList) {
+            System.out.println(st.getFname());
+        }
+    }
+}
