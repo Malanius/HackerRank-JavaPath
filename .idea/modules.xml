@@ -44,6 +44,8 @@
       <module fileurl="file://$PROJECT_DIR$/04_DataStructures/038_Comparator/038_Comparator.iml" filepath="$PROJECT_DIR$/04_DataStructures/038_Comparator/038_Comparator.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_DataStructures/039_Sort/039_Sort.iml" filepath="$PROJECT_DIR$/04_DataStructures/039_Sort/039_Sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_BigNumber/03_BigNumber.iml" filepath="$PROJECT_DIR$/03_BigNumber/03_BigNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DataStructures/040_Deque/040_Deque.iml" filepath="$PROJECT_DIR$/04_DataStructures/040_Deque/040_Deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DataStructures/041_BitSet/041_BitSet.iml" filepath="$PROJECT_DIR$/04_DataStructures/041_BitSet/041_BitSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_DataStructures/04_DataStructures.iml" filepath="$PROJECT_DIR$/04_DataStructures/04_DataStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPath.iml" filepath="$PROJECT_DIR$/JavaPath.iml" />
     </modules>
