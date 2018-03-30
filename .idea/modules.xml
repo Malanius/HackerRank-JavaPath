@@ -47,7 +47,16 @@
       <module fileurl="file://$PROJECT_DIR$/04_DataStructures/040_Deque/040_Deque.iml" filepath="$PROJECT_DIR$/04_DataStructures/040_Deque/040_Deque.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_DataStructures/041_BitSet/041_BitSet.iml" filepath="$PROJECT_DIR$/04_DataStructures/041_BitSet/041_BitSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_DataStructures/042_PriorityQueue/042_PriorityQueue.iml" filepath="$PROJECT_DIR$/04_DataStructures/042_PriorityQueue/042_PriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_OOP/043_Inheritance1/043_Inheritance1.iml" filepath="$PROJECT_DIR$/05_OOP/043_Inheritance1/043_Inheritance1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_OOP/044_Inheritance2/044_Inheritance2.iml" filepath="$PROJECT_DIR$/05_OOP/044_Inheritance2/044_Inheritance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_OOP/045_AbstractClass/045_AbstractClass.iml" filepath="$PROJECT_DIR$/05_OOP/045_AbstractClass/045_AbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_OOP/046_Interface/046_Interface.iml" filepath="$PROJECT_DIR$/05_OOP/046_Interface/046_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_OOP/047_MethodOverriding/047_MethodOverriding.iml" filepath="$PROJECT_DIR$/05_OOP/047_MethodOverriding/047_MethodOverriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_OOP/048_MethodOverriding2Super/048_MethodOverriding2Super.iml" filepath="$PROJECT_DIR$/05_OOP/048_MethodOverriding2Super/048_MethodOverriding2Super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_OOP/049_InstanceOf/049_InstanceOf.iml" filepath="$PROJECT_DIR$/05_OOP/049_InstanceOf/049_InstanceOf.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_DataStructures/04_DataStructures.iml" filepath="$PROJECT_DIR$/04_DataStructures/04_DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_OOP/050_Iterator/050_Iterator.iml" filepath="$PROJECT_DIR$/05_OOP/050_Iterator/050_Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_OOP/05_OOP.iml" filepath="$PROJECT_DIR$/05_OOP/05_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPath.iml" filepath="$PROJECT_DIR$/JavaPath.iml" />
     </modules>
   </component>
