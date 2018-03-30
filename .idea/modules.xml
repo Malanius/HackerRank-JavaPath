@@ -56,7 +56,10 @@
       <module fileurl="file://$PROJECT_DIR$/05_OOP/049_InstanceOf/049_InstanceOf.iml" filepath="$PROJECT_DIR$/05_OOP/049_InstanceOf/049_InstanceOf.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_DataStructures/04_DataStructures.iml" filepath="$PROJECT_DIR$/04_DataStructures/04_DataStructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_OOP/050_Iterator/050_Iterator.iml" filepath="$PROJECT_DIR$/05_OOP/050_Iterator/050_Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_ExceptionHandling/051_TryCatch/051_TryCatch.iml" filepath="$PROJECT_DIR$/06_ExceptionHandling/051_TryCatch/051_TryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_ExceptionHandling/052_ExceptionHandling/052_ExceptionHandling.iml" filepath="$PROJECT_DIR$/06_ExceptionHandling/052_ExceptionHandling/052_ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_OOP/05_OOP.iml" filepath="$PROJECT_DIR$/05_OOP/05_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_ExceptionHandling/06_ExceptionHandling.iml" filepath="$PROJECT_DIR$/06_ExceptionHandling/06_ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPath.iml" filepath="$PROJECT_DIR$/JavaPath.iml" />
     </modules>
   </component>
