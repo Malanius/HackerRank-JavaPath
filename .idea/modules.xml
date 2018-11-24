@@ -66,6 +66,7 @@
       <module fileurl="file://$PROJECT_DIR$/07_Advanced/058_SingletonPattern/058_SingletonPattern.iml" filepath="$PROJECT_DIR$/07_Advanced/058_SingletonPattern/058_SingletonPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_Advanced/059_VisitorPattern/059_VisitorPattern.iml" filepath="$PROJECT_DIR$/07_Advanced/059_VisitorPattern/059_VisitorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_OOP/05_OOP.iml" filepath="$PROJECT_DIR$/05_OOP/05_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Advanced/060_Annotations/060_Annotations.iml" filepath="$PROJECT_DIR$/07_Advanced/060_Annotations/060_Annotations.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_ExceptionHandling/06_ExceptionHandling.iml" filepath="$PROJECT_DIR$/06_ExceptionHandling/06_ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_Advanced/07_Advanced.iml" filepath="$PROJECT_DIR$/07_Advanced/07_Advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPath.iml" filepath="$PROJECT_DIR$/JavaPath.iml" />
