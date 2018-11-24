@@ -70,6 +70,7 @@
       <module fileurl="file://$PROJECT_DIR$/07_Advanced/061_CovariantReturnTypes/061_CovariantReturnTypes.iml" filepath="$PROJECT_DIR$/07_Advanced/061_CovariantReturnTypes/061_CovariantReturnTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_Advanced/062_LambdaExpression/062_LambdaExpression.iml" filepath="$PROJECT_DIR$/07_Advanced/062_LambdaExpression/062_LambdaExpression.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_Advanced/063_MD5/063_MD5.iml" filepath="$PROJECT_DIR$/07_Advanced/063_MD5/063_MD5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Advanced/064_SHA-256/064_SHA-256.iml" filepath="$PROJECT_DIR$/07_Advanced/064_SHA-256/064_SHA-256.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_ExceptionHandling/06_ExceptionHandling.iml" filepath="$PROJECT_DIR$/06_ExceptionHandling/06_ExceptionHandling.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_Advanced/07_Advanced.iml" filepath="$PROJECT_DIR$/07_Advanced/07_Advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPath.iml" filepath="$PROJECT_DIR$/JavaPath.iml" />
