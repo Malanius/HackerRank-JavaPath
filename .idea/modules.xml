@@ -58,8 +58,16 @@
       <module fileurl="file://$PROJECT_DIR$/05_OOP/050_Iterator/050_Iterator.iml" filepath="$PROJECT_DIR$/05_OOP/050_Iterator/050_Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_ExceptionHandling/051_TryCatch/051_TryCatch.iml" filepath="$PROJECT_DIR$/06_ExceptionHandling/051_TryCatch/051_TryCatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_ExceptionHandling/052_ExceptionHandling/052_ExceptionHandling.iml" filepath="$PROJECT_DIR$/06_ExceptionHandling/052_ExceptionHandling/052_ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Advanced/053_VarArgsAddition/053_VarArgsAddition.iml" filepath="$PROJECT_DIR$/07_Advanced/053_VarArgsAddition/053_VarArgsAddition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Advanced/054_ReflectionAttributes/054_ReflectionAttributes.iml" filepath="$PROJECT_DIR$/07_Advanced/054_ReflectionAttributes/054_ReflectionAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Advanced/055_CanYouAcces/055_CanYouAcces.iml" filepath="$PROJECT_DIR$/07_Advanced/055_CanYouAcces/055_CanYouAcces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Advanced/056_PrimeChecker/056_PrimeChecker.iml" filepath="$PROJECT_DIR$/07_Advanced/056_PrimeChecker/056_PrimeChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Advanced/057_FactoryPattern/057_FactoryPattern.iml" filepath="$PROJECT_DIR$/07_Advanced/057_FactoryPattern/057_FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Advanced/058_SingletonPattern/058_SingletonPattern.iml" filepath="$PROJECT_DIR$/07_Advanced/058_SingletonPattern/058_SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Advanced/059_VisitorPattern/059_VisitorPattern.iml" filepath="$PROJECT_DIR$/07_Advanced/059_VisitorPattern/059_VisitorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_OOP/05_OOP.iml" filepath="$PROJECT_DIR$/05_OOP/05_OOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/06_ExceptionHandling/06_ExceptionHandling.iml" filepath="$PROJECT_DIR$/06_ExceptionHandling/06_ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Advanced/07_Advanced.iml" filepath="$PROJECT_DIR$/07_Advanced/07_Advanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPath.iml" filepath="$PROJECT_DIR$/JavaPath.iml" />
     </modules>
   </component>
